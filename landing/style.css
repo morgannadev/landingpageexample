@@ -1,20 +1,46 @@
-body{
-  font-size: 20px;
+body {
+  background-color: rgb(240, 240, 240);  
   font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 
-h1{  
+h1 {
+  color: #D13333;  
   font-family: 'Montserrat', sans-serif;
   font-size: 50px;
-  color: #D13333;
+  font-weight: lighter;  
+}
+
+h2{
+  font-weight: lighter;
 }
 
 a {
-  font-size: 40px;
-  color: yellow;
+  font-size: 30px;  
 }
 
 a:hover {
+  color: pink;
   text-decoration: none;
-  color: purple;
+}
+
+#banner {
+   background-color: white;   
+   border-radius: 3px;
+   box-shadow: 2px 2px rgb(230, 230, 230);
+   margin: 35px;
+   padding: 20px;
+   text-align: center;
+}
+
+.cards {
+  font-weight: lighter;
+  padding: 50px;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  text-align: center;
 }
