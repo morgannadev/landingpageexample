@@ -13,4 +13,8 @@
 - [Nucleo App - Icon Organizer & Icon Library](https://nucleoapp.com/);
 - [Google Fonts](https://fonts.google.com/);
 - [Coolors - Paletas de Cores](https://coolors.co);
-- [Colorhunt - Paletas de Cores](https://colorhunt.co).
+- [Colorhunt - Paletas de Cores](https://colorhunt.co);
+- [Picsum - Fotos aleatórias](https://unsplash.it/);
+- [Pexels - Imagens](https://www.pexels.com);
+- [Font Awesome](fontawesome.io/icons);
+- [Bootstrap](https://getbootstrap.com/).

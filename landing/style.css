@@ -2,35 +2,27 @@ body {
   background-color: rgb(240, 240, 240);  
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
+  margin: 0;
 }
 
-h1 {
-  color: #D13333;  
-  font-family: 'Montserrat', sans-serif;
+#banner {  
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  color: white;
+  padding: 150px;  
+  text-align: center;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+  color: white;
   font-size: 50px;
-  font-weight: lighter;  
 }
 
-h2{
+#banner p {
+  color: white;
+  font-size: 30px;
   font-weight: lighter;
-}
-
-a {
-  font-size: 30px;  
-}
-
-a:hover {
-  color: pink;
-  text-decoration: none;
-}
-
-#banner {
-   background-color: white;   
-   border-radius: 3px;
-   box-shadow: 2px 2px rgb(230, 230, 230);
-   margin: 35px;
-   padding: 20px;
-   text-align: center;
 }
 
 .cards {
@@ -38,9 +30,18 @@ a:hover {
   padding: 50px;
 }
 
-#footer {
-  background-color: black;
-  color: white;
+#footer {  
+  background: rgb(30, 30, 30);
+  color: lightgrey;
   padding: 30px;
   text-align: center;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+
+#footer a:hover {
+  color: white;
 }
